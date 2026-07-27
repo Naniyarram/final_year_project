@@ -19,8 +19,8 @@ This project analyzes sentiments expressed in tweets related to various topics. 
 ## Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Naniyarram/final_year_project.git
-   cd final_year_project
+   git clone https://github.com/Naniyarram/twitter-sentiment-analysis-lstm.git
+   cd twitter-sentiment-analysis-lstm
    ```
 2. Install the required libraries:
    ```bash
